@@ -4,3 +4,6 @@
 
 #asset_pipeline
 guides.rubyonrails.org/asset_pipeline.html
+
+#run 
+rails s -b $IP -p $PORT
